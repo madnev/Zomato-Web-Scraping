@@ -9,5 +9,5 @@ This small project had two basic objectives:
 
 LIMITATIONS
 -------------
-- Zomato's website has a lot of dynamic JavaScript, which limited the number of restaurants possible to scrape to only the first 9 that were automatically loaded without needing to scroll down. I tried using the Selenium library (which allows to scrape websites with dynamic JavaScript and simulate human interactions) but I found that its documentation was outdated and I could only find resources for deprecated functions.
-- I found that Zomato's html structure would varry sporadically, and in those cases this code will not work (I would have to rerun the request a couple of times). If you run into that issue, you can always use the restaurants_backup.csv file that I made available.
+- Zomato's website uses dynamic JavaScript, which limited the number of restaurants possible to scrape to only the first 9 that were automatically loaded without needing to scroll down. I tried using the Selenium library (which allows to scrape websites with dynamic JavaScript and simulate human interactions) but I found that its documentation was outdated and I could only find resources for deprecated functions.
+- Zomato's html structure would varry sporadically. In those cases this code will not fully work (I would have to rerun the request a couple of times). If facing this issue, refer to the restaurants_backup.csv file available.
