@@ -1,5 +1,5 @@
 # Zomato-Web-Scraping
-Web scraping Zomato with Python and Beautifulsoup
+Web scraping Zomato with Python and Beautifulsoup. Lisbon restaurants dataset available.
 
 PROJECT GOALS
 -------------
