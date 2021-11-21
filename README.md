@@ -1,2 +1,2 @@
 # Zomato-Web-Scraping
-Web Scraping Zomato with Python and Beautifulsoup
+Web scraping Zomato with Python and Beautifulsoup
